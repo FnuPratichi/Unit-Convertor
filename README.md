@@ -32,6 +32,8 @@ Additional Units: Support for more units like pounds, ounces, liters, etc.
 User Authentication: Implement user login and save conversion history.
 API Integration: Integrate third-party APIs for dynamic unit conversions.
 
+![image](https://github.com/user-attachments/assets/4602b088-a0dd-40ca-945d-7daf6de43327)
+
 
 
 
